@@ -7,7 +7,9 @@ This game was created in Unity as part of the [Complete C# Unity Game Developer 
 
 ## How to Play
 
-This is a [Breakout](https://en.wikipedia.org/wiki/Breakout_(video_game)) style game There are three main components of the game: the `Paddle`, the `Ball`, and the `Blocks`. Move the `Paddle` with the mouse. At the start of the game click the left mouse button to launch the `Ball` into the air. As the `Ball` will destroy `Blocks` that it hits. Your goal is clear the screen of all `Blocks` without letting the `Ball` fall past the `Paddle`. Once you destroy all the `Block` you will progress to the next level of the game.
+This is a [Breakout](https://en.wikipedia.org/wiki/Breakout_(video_game)) style game. 
+
+There are three main components of the game: the `Paddle`, the `Ball`, and the `Blocks`. Move the `Paddle` with the mouse. At the start of the game click the left mouse button to launch the `Ball` into the air. The `Ball` will bounce around and destroy `Blocks` that it hits. Your goal is to clear the screen of all `Blocks` without letting the `Ball` fall past the `Paddle`. Once you destroy all the `Block` you will progress to the next level of the game.
 
 ![Game Play](/Documentation/game_play.gif)
 
